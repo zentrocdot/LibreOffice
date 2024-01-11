@@ -1,4 +1,4 @@
-== Installation of libreoffice with UI language packages
+= Installation of libreoffice with UI language packages
 
 I tried to create libreoffice plus a UI with the German (de) language pack in the first place. Using the suggested installation procedure from the website was not successful.
 
