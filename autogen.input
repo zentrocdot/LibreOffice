@@ -1,0 +1,12 @@
+# See also:
+# https://wiki.documentfoundation.org/Development/BuildingOnLinux
+# Set the UI languages (e.g. de, it and fr)
+--with-lang=de it fr
+# Create the related help system.
+--with-help
+# Create DEB.
+--with-package-format=deb
+--enable-epm
+# Create RPM.
+#--with-package-format=rpm
+#--enable-epm
