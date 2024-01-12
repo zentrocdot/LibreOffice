@@ -28,20 +28,28 @@ Install the required dependencies for Debian and Ubuntu like systems:
     xsltproc libxml2-utils libxrandr-dev libx11-dev bison flex libgtk-3-dev libgstreamer-plugins-base1.0-dev
     libgstreamer1.0-dev ant ant-optional libnss3-dev libavahi-client-dev libxt-dev
 
-As stated gcc/g++ must be at least version 12. Do
+As stated gcc/g++ must be at least version 12. Do as super user
 
     sudo apt install gcc-12 g++-12 
     
-and then do 
+and then do as super user
 
     sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-12 60 --slave /usr/bin/g++ g++ /usr/bin/g++-12
 
-You may need to first add a PPA (and then get version 13 instead) with sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+If these steps run well we are prepared to build LibreOffice from source.
+
+# Cloning and building
+
+Goto to the home directory <code>$HOME</code>.
+
+    git clone https://gerrit.libreoffice.org/core libreoffice
+
+    cd libreoffice
 
 # See also
 
 [1] wiki.documentfoundation.org/Development/BuildingOnLinux
 
-[2] https://translations.documentfoundation.org/
+[2] translations.documentfoundation.org/
 
 
