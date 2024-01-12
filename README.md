@@ -14,6 +14,10 @@ The best way from the source code to the executable LibreOffice version seems to
 
 I demonstrate this procedure by adding language support for my favorite languages German, Italian and French. Other languages can be added in the same way by other users.
 
+# Starting point
+
+The starting point for the installation is [1].
+
 # See also
 
 [1] wiki.documentfoundation.org/Development/BuildingOnLinux
