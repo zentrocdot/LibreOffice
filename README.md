@@ -1,5 +1,21 @@
 # Motivation
 
-By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. 
+By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. Linux Mint LTS in the Cinnamon edition is installed. An upgrade was performed from version 20.03 codename Una to version 21 codename Vanessa. After the upgrade, I could no longer get LibreOffice to work in the usual ways. So I decided to build LibreOffice from source on my own on the computer. The result of my installation efforts can be found here.
 
-After updating my Linux system I hat problems to install LibreOffice. I figured out how to get LibreOffice running. The steps to set up the new LibreOffice to version 24.8.0.0 is presented here.
+# General procedure
+
+The best way from the source code to the executable LibreOffice version seems to be realized in three steps.
+
+1. Build LibreOffice from source code without special options
+
+2. Add the language support for all known languages
+
+3. Create the translated user defined UI's and the translated help files 
+
+# See also
+
+[1] wiki.documentfoundation.org/Development/BuildingOnLinux
+
+[2] https://translations.documentfoundation.org/
+
+
