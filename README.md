@@ -42,11 +42,44 @@ If these steps run well we are prepared to build LibreOffice from source.
 
 # Cloning and building
 
-Goto to the home directory <code>$HOME</code>.
+Goto to the home directory <code>$HOME</code> and clone the repository:
 
     git clone https://gerrit.libreoffice.org/core libreoffice
 
+Change the directory:
+
     cd libreoffice
+
+Then you can prepare the build files using:
+
+    ./autogen.sh
+
+Run first to get a working build:
+   
+    make
+
+and then run 
+    
+    make check
+
+In my case I got two JAVA errors, which did not influencing the installation yet.   
+
+# Running the build
+
+The previous listed steps created a local installation, which you can be started with:
+
+    instdir/program/soffice
+
+# Add the language support for the known languages
+
+ Add the language support for the known languages in the directory tree of the source code:
+
+   make build-l10n-only
+
+Now, we are prepared to add the translated UI's and help files.
+
+
+
 
 # See also
 
