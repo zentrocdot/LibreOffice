@@ -12,7 +12,7 @@ The best way from the source code to the executable LibreOffice version seems to
 
 3. Create the translated user defined UI's and the translated help files
 
-Further on I demonstrate this by adding langauage support for my favourite languages German, Italien and French. Other languages can be added the same way by other users.
+I demonstrate this procedure by adding language support for my favorite languages German, Italian and French. Other languages can be added in the same way by other users.
 
 # See also
 
