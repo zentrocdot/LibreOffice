@@ -100,7 +100,7 @@ Then run <code>make>/code>
 
     make
 
-Then run <code>make>/code> again 
+Then run <code>make</code> again 
 
     make build-l10n-only
 
