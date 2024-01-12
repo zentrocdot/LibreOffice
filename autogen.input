@@ -4,9 +4,9 @@
 --with-lang=de it fr
 # Create the related help system.
 --with-help
-# Create DEB.
+# Create DEB package.
 --with-package-format=deb
 --enable-epm
-# Create RPM.
+# Create RPM package.
 #--with-package-format=rpm
 #--enable-epm
