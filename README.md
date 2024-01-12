@@ -58,12 +58,7 @@ Then you can prepare the build files using:
 
     ./autogen.sh
 
-I am using the following minmal version of <code>autogen.input</code>:
-
-    --with-lang=de it fr
-    --with-help 
-    --with-package-format=deb        
-    --enable-epm                     
+Do not use a <code>autogen.input</code> in the first run.                 
 
 The configuration file <code>autogen.input</code> is called automatically.            
 
@@ -93,15 +88,22 @@ Now, we are prepared to add the translated UI's and help files.
 
 # Add the translated UI's and the help files
 
-Run
+Run the script <code>autogen.sh</code> without sudo
 
     ./autogen.sh
 
-Then run
+I am using now the following minmal version of <code>autogen.input</code>:
+
+    --with-lang=de it fr
+    --with-help 
+    --with-package-format=deb        
+    --enable-epm   
+
+Then run <code>make>/code>
 
     make
 
-Then run again 
+Then run <code>make>/code> again 
 
     make build-l10n-only
 
