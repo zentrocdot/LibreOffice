@@ -54,6 +54,15 @@ Then you can prepare the build files using:
 
     ./autogen.sh
 
+I am using the following minmal version of <code>autogen.input</code>:
+
+    --with-lang=de it fr
+    --with-help 
+    --with-package-format=deb        
+    --enable-epm                     
+
+The configuration file <code>autogen.input</code> is called automatically.            
+
 Run first to get a working build:
    
     make
