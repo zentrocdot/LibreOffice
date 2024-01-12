@@ -58,10 +58,7 @@ Then you can prepare the build files using:
 
     ./autogen.sh
 
-Do not use a <code>autogen.input</code> in the first run.                 
-
-The configuration file <code>autogen.input</code> is called automatically.            
-
+The configuration file <code>autogen.input</code> is called automatically. Make sure, that you do not use a <code>autogen.input</code> in the first run.                 
 Run first to get a working build:
    
     make
@@ -91,8 +88,8 @@ Now, we are prepared to add the translated UI's and help files.
 Run the script <code>autogen.sh</code> without sudo
 
     ./autogen.sh
-
-I am using now the following minmal version of <code>autogen.input</code>:
+    
+The configuration file <code>autogen.input</code> is called automatically. I am using now the following minmal version of <code>autogen.input</code>:
 
     --with-lang=de it fr
     --with-help 
@@ -109,9 +106,11 @@ Then run <code>make>/code> again
 
 Make a copy of README_en-US at two locations and name them README_qtz as well as README_de etc. for each language. The two locations are:
 
-    /home/<home-dir>/libreoffice/instdir/readmes</br>
+<code>
+/home/<home-dir>/libreoffice/instdir/readmes</br>
 
-    /home/<home-dir>/libreoffice/workdir/CustomTarget/readlicense_oo/readme
+/home/<home-dir>/libreoffice/workdir/CustomTarget/readlicense_oo/readme
+</code>
 
 Without doing this sudo make install fails an tells README_qtz and README_de etc. are missing.
 
