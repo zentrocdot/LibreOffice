@@ -36,7 +36,7 @@ Install them on your system using sudo:
 
 As stated gcc/g++ must be at least version 12. Do as super user
 
-    sudo apt install gcc-12 g++-12 
+    sudo apt-get install gcc-12 g++-12 
     
 and then do as super user
 
