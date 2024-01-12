@@ -77,9 +77,9 @@ The previous listed steps created a local installation, which you can be started
 
 # Add the language support for the known languages
 
- Add the language support for the known languages in the directory tree of the source code:
+Add the language support for the known languages in the directory tree of the source code:
 
-   make build-l10n-only
+    make build-l10n-only
 
 Now, we are prepared to add the translated UI's and help files.
 
@@ -96,7 +96,7 @@ The configuration file <code>autogen.input</code> is called automatically. I am 
     --with-package-format=deb        
     --enable-epm   
 
-Then run <code>make>/code>
+Then run <code>make</code>
 
     make
 
