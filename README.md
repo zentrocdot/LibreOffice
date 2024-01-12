@@ -80,43 +80,39 @@ Now, we are prepared to add the translated UI's and help files.
 
 # Add the translated UI's and the help files
 
-This is, what works so far:
+Run
 
-Run ./autogen.sh:
+    ./autogen.sh
 
-./autogen.sh
+Then run
 
-Run make
+    make
 
-make
+Then run again 
 
-Run make build-l10n-only
-
-make build-l10n-only
-
-This takes the first time a relative long duration of time, due to the fact, that all languages are cloned.
+    make build-l10n-only
 
 Make a copy of README_en-US at two locations and name them README_qtz as well as README_de etc. for each language. The two locations are:
 
-/home//libreoffice/instdir/readmes
+    /home//libreoffice/instdir/readmes
 
-/home//libreoffice/workdir/CustomTarget/readlicense_oo/readme
+    /home//libreoffice/workdir/CustomTarget/readlicense_oo/readme
 
 Without doing this sudo make install fails an tells README_qtz and README_de etc. are missing.
 
 This issue is something like a bug (in the procedure). Without this bug libreoffice could be installed automatically.
 
-Finally running sudo make install
+Finally install everything
 
-sudo make install
+    sudo make install
 
-results in
+This results in
 
-/usr/local/lib/libreoffice/program/soffice
+    /usr/local/lib/libreoffice/program/soffice
+
 with a German UI (and optional languages).
 
 As result, now I can see en-US as well as de and the other languages for the installed user interfaces in the libreoffice settings.
-
 
 # See also
 
