@@ -96,7 +96,7 @@ Make a copy of README_en-US at two locations and name them README_qtz as well as
 
     /home/<home-dir>/libreoffice/instdir/readmes
 
-   
+<pre></pre>   
 
     /home/<home-dir>/libreoffice/workdir/CustomTarget/readlicense_oo/readme
 
