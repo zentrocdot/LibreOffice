@@ -106,11 +106,9 @@ Then run <code>make</code> again
 
 Make a copy of README_en-US at two locations and name them README_qtz as well as README_de etc. for each language. The two locations are:
 
-<code>
-/home/<home-dir>/libreoffice/instdir/readmes</br>
+<code>/home/<home-dir>/libreoffice/instdir/readmes</br>
 
-/home/<home-dir>/libreoffice/workdir/CustomTarget/readlicense_oo/readme
-</code>
+/home/<home-dir>/libreoffice/workdir/CustomTarget/readlicense_oo/readme</code>
 
 Without doing this sudo make install fails an tells README_qtz and README_de etc. are missing.
 
