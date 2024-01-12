@@ -96,7 +96,7 @@ Make a copy of README_en-US at two locations and name them README_qtz as well as
 
     /home/<home-dir>/libreoffice/instdir/readmes
 
-</br>    
+   
 
     /home/<home-dir>/libreoffice/workdir/CustomTarget/readlicense_oo/readme
 
@@ -115,6 +115,12 @@ This results in
 with a German UI (and optional languages).
 
 As result, now I can see en-US as well as de and the other languages for the installed user interfaces in the libreoffice settings.
+
+# DEB package
+
+The DEb packages are created in:
+
+    /home/<home-dir>/libreoffice/workdir/CustomTarget/sysui/deb
 
 # See also
 
