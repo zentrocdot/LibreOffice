@@ -12,7 +12,7 @@ The best way from the source code to the executable LibreOffice version seems to
 
 3. Create the translated user defined UI's and the translated help files
 
-I demonstrate this procedure by adding language support for my favorite languages German, Italian and French. Other languages can be added in the same way by other users.
+<p align="justify">I demonstrate this procedure by adding language support for my favorite languages German, Italian and French. Other languages can be added in the same way by other users.</p>
 
 # Starting point
 
@@ -130,6 +130,12 @@ As result, now I can see en-US as well as de and the other languages for the ins
 The DEb packages are created in:
 
     /home/<home-dir>/libreoffice/workdir/CustomTarget/sysui/deb
+
+<p align="justify">It seems that the command line argument for creating the deb file generates menu entries. However, these have to be changed manually to start LibreOffice.</p>
+
+# Conclusion
+
+<p align="justify">I have a version of LibreOffice installed on my computer that works better than any version I have worked with before.</p>
 
 # See also
 
