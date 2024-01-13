@@ -111,6 +111,8 @@ Make a copy of README_en-US at two locations and name them README_qtz as well as
 
 Without doing this sudo make install fails an tells README_qtz and README_de etc. are missing.
 
+The bash file readme_copy.bash takes over the copying of the missing README files.
+
 This issue is something like a bug (in the procedure). Without this bug libreoffice could be installed automatically.
 
 Finally install everything
