@@ -58,7 +58,8 @@ Then you can prepare the build files using:
 
     ./autogen.sh
 
-The configuration file <code>autogen.input</code> is called automatically. Make sure, that you do not use a <code>autogen.input</code> in the first run.                 
+The configuration file <code>autogen.input</code> is called automatically. Make sure, that you do not use a <code>autogen.input</code> in the first run. 
+
 Run first to get a working build:
    
     make
