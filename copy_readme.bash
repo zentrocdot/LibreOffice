@@ -6,7 +6,7 @@
 lang_array=("qtz" "de" "it" "fr")
 
 # Set the user name.
-user="doctorwho"
+user="<local-user>"
 
 # Define the reference file name.
 ref_fn="README_en-US"
