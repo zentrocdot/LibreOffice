@@ -1,6 +1,6 @@
 # Motivation
 
-<p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the <code>Cinnamon Edition</code> is installed. An upgrade was performed from version <code>20.03</code>code> codename <code>Una</code> (<code>Ubuntu Focal</code>) to version <code>21</code> codename <code>Vanessa</code> (<code>Ubuntu Jammy</code>). After the upgrade, I could no longer get <code>LibreOffice</code> to work in the usual ways. So I decided to build <code>LibreOffice</code> from source on my own on the computer. The result of my installation efforts can be found here.</p>
+<p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the <code>Cinnamon Edition</code> is installed. An upgrade was performed from version <code>20.03</code> codename <code>Una</code> (<code>Ubuntu Focal</code>) to version <code>21</code> codename <code>Vanessa</code> (<code>Ubuntu Jammy</code>). After the upgrade, I could no longer get <code>LibreOffice</code> to work in the usual ways. So I decided to build <code>LibreOffice</code> from source on my own on the computer. The result of my installation efforts can be found here.</p>
 
 > [!NOTE]
 > In the meantime I applied the following steps on <code>Linux Mint 21.3 (Virginia)</code> several times. The installation procedure works as expected. I am running the LibreOffice version with is shipped with the Linux Mint installation next to the developer version [1].
@@ -23,7 +23,7 @@ The starting point for the installation is [3]. Reference [2] is given for the s
 
 # Prerequisites
 
-The required dependencies for <code>Debian</code> and <code>Ubuntu</code> like systems are:
+The required dependencies for <code>Debian like</code> and <code>Ubuntu like</code> systems are:
 
 <pre>
 git build-essential zip ccache junit4 libkrb5-dev nasm graphviz python3 python3-dev qtbase5-dev
