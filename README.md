@@ -7,7 +7,7 @@
 
 # Introductary Words
 
-<p align="justify">The whole installation procedure takes a while. On my last system with an AMD processor with six cores it took round about 3 hours for the installation as described. It should be noted that the available download data transfer speed influences the duration of the installation.</p>
+<p align="justify">The whole installation procedure takes a while. On my last system with an AMD processor with six cores it took round about 3 hours for the installation as described. It should be noted that the available download data transfer speed influences the duration of the installation. Download and compilation needs the most time.</p>
 
 # General procedure
 
