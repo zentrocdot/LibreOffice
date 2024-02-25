@@ -23,7 +23,7 @@ The starting point for the installation is [1]. [2] is given for the sake of com
 
 # Prerequisites
 
-The required dependencies for Debian and Ubuntu like systems are:
+The required dependencies for <code>Debian</code> and <code>Ubuntu</code> like systems are:
 
 <pre>
 git build-essential zip ccache junit4 libkrb5-dev nasm graphviz python3 python3-dev qtbase5-dev
@@ -46,7 +46,7 @@ and then do as super user
 
     sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-12 60 --slave /usr/bin/g++ g++ /usr/bin/g++-12
 
-If these steps run well we are prepared to build LibreOffice from source.
+If these steps run well we are prepared to build <code>LibreOffice</code> from source.
 
 # Cloning and building
 
