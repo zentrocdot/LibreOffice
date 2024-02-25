@@ -152,7 +152,7 @@ The DEb packages are created in:
 <p align="center">I loved the time when you could get also a hamburger :hamburger: for one euro!</p>
 
 <p align="center">
-<a target="_blank" href="https://www.buymeacoffee.com/zentrocdot"><img src="\zentrocdot\Bash_Programming\IMAGES\greeen-button.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a target="_blank" href="https://www.buymeacoffee.com/zentrocdot"><img src="https://github.com/zentrocdot/Bash_Programming/IMAGES/greeen-button.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
 <hr width="100%" size="2">
