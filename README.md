@@ -1,10 +1,10 @@
 # Motivation
 
-<p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the Cinnamon edition is installed. An upgrade was performed from version 20.03 codename Una (Ubuntu Focal) to version 21 codename Vanessa (Ubuntu Jammy). After the upgrade, I could no longer get LibreOffice to work in the usual ways. So I decided to build LibreOffice from source on my own on the computer. The result of my installation efforts can be found here.</p>
+<p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the <code>Cinnamon Edition</code> is installed. An upgrade was performed from version 20.03 codename Una (Ubuntu Focal) to version 21 codename Vanessa (Ubuntu Jammy). After the upgrade, I could no longer get <code>LibreOffice</code> to work in the usual ways. So I decided to build <code>LibreOffice</code> from source on my own on the computer. The result of my installation efforts can be found here.</p>
 
 # General procedure
 
-The best way from the source code to the executable LibreOffice version seems to be realized in three steps.
+The best way from the source code to the executable <code>LibreOffice</code> version seems to be realized in three steps.
 
 1. Build LibreOffice from source code without special options
 
