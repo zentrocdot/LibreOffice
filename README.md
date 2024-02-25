@@ -1,6 +1,6 @@
 # Motivation
 
-<p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. Linux Mint LTS in the Cinnamon edition is installed. An upgrade was performed from version 20.03 codename Una (Ubuntu Focal) to version 21 codename Vanessa (Ubuntu Jammy). After the upgrade, I could no longer get LibreOffice to work in the usual ways. So I decided to build LibreOffice from source on my own on the computer. The result of my installation efforts can be found here.</p>
+<p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the Cinnamon edition is installed. An upgrade was performed from version 20.03 codename Una (Ubuntu Focal) to version 21 codename Vanessa (Ubuntu Jammy). After the upgrade, I could no longer get LibreOffice to work in the usual ways. So I decided to build LibreOffice from source on my own on the computer. The result of my installation efforts can be found here.</p>
 
 # General procedure
 
@@ -147,4 +147,28 @@ The DEb packages are created in:
 
 [2] translations.documentfoundation.org/
 
+<hr width="100%" size="2">
+
+<p align="center">I loved the time when you could get also a hamburger :hamburger: for one euro!</p>
+
+<p align="center">
+<a target="_blank" href="https://www.buymeacoffee.com/zentrocdot"><img src="\IMAGES\greeen-button.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+
+<hr width="100%" size="2">
+
+## Other ways to donate
+
+<p align="justify">If you like what I present here, or if it helps you, or if it is useful, you are welcome to donate a small contribution or a cup of coffee. Or as you might say: Every TRON counts! Many thanks in advance! :smiley:</p>
+
+<pre>TQamF8Q3z63sVFWiXgn2pzpWyhkQJhRtW7            (TRON)
+DMh7EXf7XbibFFsqaAetdQQ77Zb5TVCXiX            (DOGE)
+12JsKesep3yuDpmrcXCxXu7EQJkRaAvsc5            (BITCOIN)
+0x31042e2F3AE241093e0387b41C6910B11d94f7ec    (Ethereum)</pre>
+    
+<hr width="100%" size="2">
+
+<hr width="100%" size="2">
+
+<p align="center">File last modified 25/02/2024</p>
 
