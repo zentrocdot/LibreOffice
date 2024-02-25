@@ -145,7 +145,11 @@ The DEB packages are created in:
 
     /home/<home-dir>/libreoffice/workdir/CustomTarget/sysui/deb
 
-<p align="justify">It seems that the command line argument for creating the deb file generates menu entries. However, these have to be changed manually to start LibreOffice.</p>
+<p align="justify">The DEB package creation is not working as expected. The DEB packages can be used and they are recognised as DEb packages, but they do not install LibreOffice. This has to be checked.</p>
+
+# Workaround
+
+<p align="justify">Due to the fact, taht teh DEB packages cannot be used, I am using the following workaround. I am creating a starter on the desktop and using the icon of the correct installed official libreoffice installation.</p>
 
 # Conclusion
 
