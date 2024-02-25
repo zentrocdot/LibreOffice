@@ -171,6 +171,10 @@ The DEB packages are created in:
 
 [4]    www&#8203;.libreoffice.org/download/pre-releases/
 
+[5]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
+
+[6]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+
 <hr width="100%" size="2">
 
 <p align="center">I loved the time when you could get also a hamburger :hamburger: for one euro!</p>
