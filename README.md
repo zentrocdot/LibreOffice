@@ -27,7 +27,7 @@ The best way from the source code to the executable <code>LibreOffice</code> ver
 
 3. Create the translated user defined UI's and the translated help files
 
-<p align="justify">I demonstrate this procedure by adding language support for my favorite languages German, Italian and French. Other languages can be added in the same way by other users.</p>
+<p align="justify">I demonstrate this procedure by adding language support for my favorite languages <code>German</code>, <code>Italian</code> and <code>French</code> next to <code>English</code>. Other languages can be added in the same way by other users.</p>
 
 ## Starting point
 
