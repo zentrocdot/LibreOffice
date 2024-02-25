@@ -14,6 +14,9 @@
 
 <p align="justify">The whole installation procedure takes a while. On my last system with an AMD processor with six cores it took round about 4 hours for the installation as described. It should be noted that the available download data transfer speed influences the duration of the installation. Download and compilation needs the most time.</p>
 
+> [!CAUTION]
+> You are using the following description at your own risk. The described procedure has been tested several times and has led to the desired result for me. Of course, I cannot guarantee that this will work for you.
+
 ## General procedure
 
 The best way from the source code to the executable <code>LibreOffice</code> version seems to be realized in three steps.
