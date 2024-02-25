@@ -154,6 +154,8 @@ The DEb packages are created in:
 
 [3]    linuxmint.com/download_all.php
 
+[4]    www&#8203;.libreoffice.org/download/pre-releases/
+
 <hr width="100%" size="2">
 
 <p align="center">I loved the time when you could get also a hamburger :hamburger: for one euro!</p>
