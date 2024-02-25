@@ -137,7 +137,7 @@ As result, now I can see en-US as well as de and the other languages for the ins
 
 # DEB package
 
-The DEb packages are created in:
+The DEB packages are created in:
 
     /home/<home-dir>/libreoffice/workdir/CustomTarget/sysui/deb
 
