@@ -58,20 +58,20 @@ Change the directory:
 
     cd libreoffice
 
-Then you can prepare the build files using:
+Then you can prepare the build files by running the command:
 
     ./autogen.sh
 
-The configuration file <code>autogen.input</code> is called automatically. Make sure, that you do not use a <code>autogen.input</code> in the first run. 
+<p align="justify">The script <code>autogen.sh</code> is using a configuration file <code>autogen.input</code>. The configuration file <code>autogen.input</code> is called automatically. Make sure, that you do not use a <code>autogen.input</code> in the first run. 
 
 > [!TIP]
 > As I have explained the configuration file <code>autogen.input</code> is called automatically. Do not use a <code>autogen.input</code> configuration file in the first run. This approach has proved successful.  
 
-Run first to get a working build:
+Run <code>make</code> first to get a working build:
    
     make
 
-and then run 
+After that run <code>make check</code>: 
     
     make check
 
