@@ -7,7 +7,7 @@
 
 # Introductary Words
 
-<p align="justify">The whole installation procedure takes a while. On my last system it took round about 2 hours for the installation as described.</p>
+<p align="justify">The whole installation procedure takes a while. On my last system with an AMD processor with six cores it took round about 3 hours for the installation as described.</p>
 
 # General procedure
 
