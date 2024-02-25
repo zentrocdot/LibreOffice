@@ -183,6 +183,9 @@ The DEB packages are created in:
 
 [6]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
 
+> [!TIP]
+> I will shortly be making a small PDF and small e-book available via Buymeacoffee that builds on this description. It will contain further information about the described installation and and things beyond that.  
+
 <hr width="100%" size="2">
 
 <p align="center">I loved the time when you could get also a hamburger :hamburger: for one euro!</p>
