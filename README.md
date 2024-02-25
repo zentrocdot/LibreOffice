@@ -1,3 +1,7 @@
+> [!INFO]
+> The described installation procedure is tested from Linux Mint version 20.3 to version 21.3.
+
+
 # Motivation
 
 <p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the <code>Cinnamon Edition</code> is installed. An upgrade was performed from version <code>20.03</code> codename <code>Una</code> (<code>Ubuntu Focal</code>) to version <code>21</code> codename <code>Vanessa</code> (<code>Ubuntu Jammy</code>). After the upgrade, I could no longer get <code>LibreOffice</code> to work in the usual ways. So I decided to build <code>LibreOffice</code> from source on my own on the computer. The result of my installation efforts can be found here.</p>
