@@ -19,7 +19,7 @@ The best way from the source code to the executable <code>LibreOffice</code> ver
 
 # Starting point
 
-The starting point for the installation is [1]. [2] is given for the sake of completeness. The procedure is valid for <code>LibreOffice</code> on <code>Linux</code> and <code>BSD</code> systems.
+The starting point for the installation is [3]. Reference [2] is given for the sake of completeness. The procedure is valid for <code>LibreOffice</code> on <code>Linux</code> and <code>BSD</code> systems.
 
 # Prerequisites
 
