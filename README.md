@@ -3,7 +3,7 @@
 <p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the <code>Cinnamon Edition</code> is installed. An upgrade was performed from version <code>20.03</code>code> codename <code>Una</code> (<code>Ubuntu Focal</code>) to version <code>21</code> codename <code>Vanessa</code> (<code>Ubuntu Jammy</code>). After the upgrade, I could no longer get <code>LibreOffice</code> to work in the usual ways. So I decided to build <code>LibreOffice</code> from source on my own on the computer. The result of my installation efforts can be found here.</p>
 
 > [!NOTE]
-> In the meantime I applied the following steps on <code>Linux Mint 21.3 (Virginia)</code> several times. The installation procedure works as expected. I am running the LibreOffice version with is shipped with the Linux Mint installation next to the developer version [3].
+> In the meantime I applied the following steps on <code>Linux Mint 21.3 (Virginia)</code> several times. The installation procedure works as expected. I am running the LibreOffice version with is shipped with the Linux Mint installation next to the developer version [1].
 
 # General procedure
 
@@ -148,11 +148,11 @@ The DEb packages are created in:
 
 # See also
 
-[1]    wiki.documentfoundation.org/Development/BuildingOnLinux
+[1]    linuxmint.com/download_all.php
 
 [2]    translations.documentfoundation.org/
 
-[3]    linuxmint.com/download_all.php
+[3]    wiki.documentfoundation.org/Development/BuildingOnLinux
 
 [4]    www&#8203;.libreoffice.org/download/pre-releases/
 
