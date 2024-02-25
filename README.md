@@ -5,6 +5,10 @@
 > [!NOTE]
 > In the meantime I applied the following steps on <code>Linux Mint 21.3 (Virginia)</code> several times. The installation procedure works as expected. I am running the <code>LibreOffice</code> version with is shipped with the Linux Mint installation next to the developer version [1].
 
+# Introductary Words
+
+<p align="justify">The whole installation procedure takes a while. On my last system it took round about 2 hours for the installation as described.</p>
+
 # General procedure
 
 The best way from the source code to the executable <code>LibreOffice</code> version seems to be realized in three steps.
