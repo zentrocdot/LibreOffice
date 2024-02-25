@@ -153,6 +153,10 @@ The DEB packages are created in:
 
 <p align="justify">Due to the fact, taht teh DEB packages cannot be used, I am using the following workaround. I am creating a starter on the desktop and using the icon of the correct installed official libreoffice installation.</p>
 
+# To-Do
+
+<p align="justify">On my to-do list is one issue of interest. How can I get a DEB package, which can be used for installation as well as distribution in principle.</p>
+
 # Conclusion
 
 <p align="justify">I have a version of LibreOffice installed on my computer that works better than any version I have worked with before.</p>
