@@ -79,7 +79,9 @@ After that run <code>make check</code>:
     
     make check
 
-In my case I got two JAVA errors, which did not influencing the installation yet.   
+# Errors from make check    
+
+<p align="justify">First time when I installed libreoffice I got two JAVA errors, which did not influencing the installation yet. Next time I was able to run make check without errors. While installing on Linux Mint 21.3 I got again errors. This has to be checked, but did not influence the installation yet.</p>   
 
 # Running the build
 
