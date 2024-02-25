@@ -9,7 +9,7 @@
 
 The best way from the source code to the executable <code>LibreOffice</code> version seems to be realized in three steps.
 
-1. Build LibreOffice from source code without special options
+1. Build <code>LibreOffice</code> from source code without special options
 
 2. Add the language support for all known languages
 
@@ -19,7 +19,7 @@ The best way from the source code to the executable <code>LibreOffice</code> ver
 
 # Starting point
 
-The starting point for the installation is [1]. [2] is given for the sake of completeness. The procedure is valid for LibreOffice on Linux and BSD systems.
+The starting point for the installation is [1]. [2] is given for the sake of completeness. The procedure is valid for <code>LibreOffice</code> on <code>Linux</code> and <code>BSD</code> systems.
 
 # Prerequisites
 
