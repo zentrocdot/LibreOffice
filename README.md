@@ -186,19 +186,20 @@ The DEB packages are created in:
 
 [4]    www&#8203;.libreoffice.org/download/pre-releases/
 
-[5]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
+[5]   www&#8203;.libreoffice.org/download/download-libreoffice/
 
-[6]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+[6]    dev.blog.documentfoundation.org/2023/07/30/ccache-for-a-5-minutes-libreoffice-build/
 
 [7]    wiki.documentfoundation.org/ReleaseNotes/24.8
 
-[8]   www&#8203;.libreoffice.org/download/download-libreoffice/
+[8]    wiki.documentfoundation.org/Development/How_to_build
 
-[9]    dev.blog.documentfoundation.org/2023/07/30/ccache-for-a-5-minutes-libreoffice-build/
+[9]    wiki.documentfoundation.org/Development/GenericBuildingHints
 
-[10]    wiki.documentfoundation.org/Development/How_to_build
+[10]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
 
-[11]    wiki.documentfoundation.org/Development/GenericBuildingHints
+[11]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+
 
 > [!TIP]
 > I will shortly be making a small PDF and small e-book available via Buymeacoffee that builds on this description. It will contain further information about the described installation and and things beyond that.  
