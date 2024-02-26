@@ -192,6 +192,10 @@ The DEB packages are created in:
 
 [8]   www&#8203;.libreoffice.org/download/download-libreoffice/
 
+[9]    dev.blog.documentfoundation.org/2023/07/30/ccache-for-a-5-minutes-libreoffice-build/
+
+[10]    wiki.documentfoundation.org/Development/How_to_build
+
 > [!TIP]
 > I will shortly be making a small PDF and small e-book available via Buymeacoffee that builds on this description. It will contain further information about the described installation and and things beyond that.  
 
