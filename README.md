@@ -196,6 +196,8 @@ The DEB packages are created in:
 
 [10]    wiki.documentfoundation.org/Development/How_to_build
 
+[11]    wiki.documentfoundation.org/Development/GenericBuildingHints
+
 > [!TIP]
 > I will shortly be making a small PDF and small e-book available via Buymeacoffee that builds on this description. It will contain further information about the described installation and and things beyond that.  
 
