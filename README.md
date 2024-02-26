@@ -18,9 +18,9 @@
 
 <p align="justify">The instruction is creating the developer version 24.8.0.0. Former versions are:</p>
 
-*  24.2.0        # New available version from website
-*  7.6.5         # Second last version
-*  7.3.7.2       # Come shipped with Linux Mint
+*  24.2.0   # New available version from website
+*  7.6.5    # Second last version
+*  7.3.7.2  # Come shipped with Linux Mint
 
 ## General procedure
 
