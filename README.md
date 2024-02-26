@@ -14,6 +14,14 @@
 > [!CAUTION]
 > You are using the following description at your own risk. The described procedure has been tested several times and has led to the desired result for me. Of course, I cannot guarantee that this will work for you.
 
+## Version Management
+
+<p align="justify">The instruction is creating the developer version 24.8. Former versions are:</p>
+
+    1.  24.2.0    # New available version from website
+    2.  7.6.5     # Second last version
+    3.  7.3.7.2   # Come shipped with Linux Mint
+
 ## General procedure
 
 The best way from the source code to the executable <code>LibreOffice</code> version seems to be realized in three steps.
@@ -179,6 +187,10 @@ The DEB packages are created in:
 [5]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
 
 [6]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+
+[7]    wiki.documentfoundation.org/ReleaseNotes/24.8
+
+[8]   www&#8203;.libreoffice.org/download/download-libreoffice/
 
 > [!TIP]
 > I will shortly be making a small PDF and small e-book available via Buymeacoffee that builds on this description. It will contain further information about the described installation and and things beyond that.  
