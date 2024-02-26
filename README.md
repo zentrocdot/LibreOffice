@@ -164,7 +164,7 @@ The DEB packages are created in:
 
 ## Workaround
 
-<p align="justify">Due to the fact, taht teh DEB packages cannot be used, I am using the following workaround. I am creating a starter on the desktop and using the icon of the correct installed official libreoffice installation.</p>
+<p align="justify">Due to the fact, that the DEB packages cannot be used, I am using the following workaround. I am creating a starter on the desktop and using the icon of the correct installed official libreoffice installation.</p>
 
 ## To-Do
 
