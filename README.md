@@ -170,9 +170,11 @@ The DEB packages are created in:
 
 <p align="justify">On my to-do list is one issue of interest. How can I get a DEB package, which can be used for installation as well as distribution in principle.</p>
 
+<p align="justify">Exploring the possibilities of the <code>autogen.input</code> configuration file.</p>
+
 ## Conclusion
 
-<p align="justify">I have a version of LibreOffice installed on my computer that works better than any version I have worked with before.</p>
+<p align="justify">I have a version of <code>LibreOffice</code> installed on my computer that works better than any version I have worked with before.</p>
 
 ## See also
 
