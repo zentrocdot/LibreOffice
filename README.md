@@ -1,14 +1,11 @@
 # README
 
-> [!IMPORTANT]
-> <p align="justify">The subsequently described installation procedure was tested from <code>Linux Mint 20.3 (Una)</code> up to <code>Linux Mint 21.3 (Virginia)</code>. The result was in all cases a running version of <code>LibreOffice</code> with help and language support. LibreOffice in version 24.8.0.0.alpha0+ (X86_64) in the LibreOffice Community version will be installed.</p>
+> [!NOTE]
+> <p align="justify">The subsequently described installation procedure was tested from <code>Linux Mint 20.3 (Una)</code> up to <code>Linux Mint 21.3 (Virginia)</code>. The result was in all cases a running version of <code>LibreOffice</code> with help and language support. <code>LibreOffice</code>code> in version 24.8.0.0.alpha0+ (X86_64) in the LibreOffice Community version will be installed. The installation procedure works as expected. I am running the <code>LibreOffice</code> developer version together with is shipped version from the Linux Mint installation [1].</p>
 
 ## Motivation
 
 <p align="justify">By default, I have maintained and updated my operating system. The update also included an overdue system upgrade. <code>Linux Mint LTS</code> in the <code>Cinnamon Edition</code> is installed. An upgrade was performed from version <code>20.03</code> codename <code>Una</code> (<code>Ubuntu Focal</code>) to version <code>21</code> codename <code>Vanessa</code> (<code>Ubuntu Jammy</code>). After the upgrade, I could no longer get <code>LibreOffice</code> to work in the usual ways. So I decided to build <code>LibreOffice</code> from source on my own on the computer. The result of my installation efforts can be found here.</p>
-
-> [!NOTE]
-> In the meantime I applied the following steps on <code>Linux Mint 21.3 (Virginia)</code> several times. The installation procedure works as expected. I am running the <code>LibreOffice</code> version with is shipped with the Linux Mint installation next to the developer version [1].
 
 ## Introductary Words
 
@@ -207,5 +204,5 @@ DMh7EXf7XbibFFsqaAetdQQ77Zb5TVCXiX            (DOGE)
     
 <hr width="100%" size="2">
 
-<p align="center">File last modified 25/02/2024</p>
+<p align="center">File last modified 26/02/2024</p>
 
