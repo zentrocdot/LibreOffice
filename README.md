@@ -16,7 +16,7 @@
 
 ## Version Management
 
-<p align="justify">The instruction is creating the developer version 24.8. Former versions are:</p>
+<p align="justify">The instruction is creating the developer version 24.8.0.0. Former versions are:</p>
 
     1.  24.2.0    # New available version from website
     2.  7.6.5     # Second last version
