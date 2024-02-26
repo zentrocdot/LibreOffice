@@ -1,7 +1,7 @@
 # README
 
 > [!NOTE]
-> <p align="justify">The subsequently described installation procedure was tested from <code>Linux Mint 20.3 (Una)</code> up to <code>Linux Mint 21.3 (Virginia)</code>. The result was in all cases a running version of <code>LibreOffice</code> with help and language support. <code>LibreOffice</code>code> in version 24.8.0.0.alpha0+ (X86_64) in the LibreOffice Community version will be installed. The installation procedure works as expected. I am running the <code>LibreOffice</code> developer version together with is shipped version from the Linux Mint installation [1].</p>
+> <p align="justify">The subsequently described installation procedure was tested from <code>Linux Mint 20.3 (Una)</code> up to <code>Linux Mint 21.3 (Virginia)</code>. The result was in all cases a running version of <code>LibreOffice</code> with help and language support. <code>LibreOffice</code> in version <code>24.8.0.0.alpha0+ (X86_64)</code> as <code>LibreOffice Community Release Version</code> will be installed. The installation procedure works as expected. I am running the <code>LibreOffice</code> developer version together with is shipped version from the Linux Mint installation [1].</p>
 
 ## Motivation
 
