@@ -217,10 +217,13 @@ The DEB packages are created in:
 
 [11]    wiki.documentfoundation.org/Development/Configuration_options
 
-[12]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
+[12]    wiki.documentfoundation.org/Language
 
-[13]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+[13]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
 
+[14]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+
+[15]    blog.documentfoundation.org/blog/2019/06/12/start-developing-libreoffice-download-the-source-code-and-build-on-linux/
 
 > [!TIP]
 > I will shortly be making a small PDF and small e-book available via Buymeacoffee that builds on this description. It will contain further information about the described installation and and things beyond that.  
