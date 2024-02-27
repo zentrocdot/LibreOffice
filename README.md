@@ -102,6 +102,10 @@ The previous listed steps created a local installation, which you can be started
 
     instdir/program/soffice
 
+or
+
+    $HOME/libreoffice/instdir/program/soffice
+
 ## Add the language support for the known languages
 
 Add the language support for the known languages in the directory tree of the source code:
@@ -142,6 +146,20 @@ The bash file readme_copy.bash takes over the copying of the missing README file
 
 This issue is something like a bug (in the procedure). Without this bug libreoffice could be installed automatically.
 
+As result, now I can see en-US as well as de and the other languages for the installed user interfaces in the libreoffice settings.
+
+## Running the build
+
+The previous listed steps created a local installation, which you can be started with:
+
+    instdir/program/soffice
+
+or
+
+    $HOME/libreoffice/instdir/program/soffice
+
+## Final installation
+    
 Finally install everything
 
     sudo make install
@@ -151,8 +169,7 @@ This results in
     /usr/local/lib/libreoffice/program/soffice
 
 with a German UI (and optional languages).
-
-As result, now I can see en-US as well as de and the other languages for the installed user interfaces in the libreoffice settings.
+    
 
 ## DEB package
 
@@ -225,5 +242,5 @@ DMh7EXf7XbibFFsqaAetdQQ77Zb5TVCXiX            (DOGE)
     
 <hr width="100%" size="2">
 
-<p align="center">File last modified 26/02/2024</p>
+<p align="center">File last modified 27/02/2024</p>
 
