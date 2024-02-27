@@ -158,9 +158,9 @@ As result, now I can see en-US as well as de and the other languages for the ins
 
 The DEB packages are created in:
 
-    /home/<home-dir>/libreoffice/workdir/CustomTarget/sysui/deb
+    /home/<home-dir>/libreoffice/workdir/installation/LibreOffice/deb/install
 
-<p align="justify">The DEB package creation is not working as expected. The DEB packages can be used and they are recognised as DEb packages, but they do not install LibreOffice. This has to be checked.</p>
+<p align="justify">The DEB package creation is not working as expected. The DEB packages can be used and they are recognised as DEB packages, but they do not install LibreOffice in the expected way. This has to be checked.</p>
 
 ## Workaround
 
