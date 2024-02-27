@@ -213,9 +213,13 @@ The DEB packages are created in:
 
 [9]    wiki.documentfoundation.org/Development/GenericBuildingHints
 
-[10]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
+[10]    wiki.documentfoundation.org/Development/ReleaseBuilds
 
-[11]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
+[11]    wiki.documentfoundation.org/Development/Configuration_options
+
+[12]     www&#8203;.spinics.net/lists/libreoffice/msg08322.html
+
+[13]    lists.freedesktop.org/archives/libreoffice/2023-February/089917.html
 
 
 > [!TIP]
